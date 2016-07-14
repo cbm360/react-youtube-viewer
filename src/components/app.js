@@ -1,9 +1,10 @@
-import React, { Component } from 'react';
+import React from 'react'
+import ReactDOM from 'react-dom';
 
-export default class App extends Component {
-  render() {
-    return (
-      <div>React simple starter</div>
-    );
-  }
+// Create new component
+const App = () => {
+    return <div>Hi!</div>
 }
+
+// Put component in DOM
+ReactDOM.render(<App />, document.querySelector('container'));

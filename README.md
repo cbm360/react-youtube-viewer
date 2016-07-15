@@ -3,6 +3,7 @@
 ## What I Learned
 - JSX
 - ES6 function syntax
+- Understanding React functional vs class components
 - import a node module
 - import a component
 - render to DOM

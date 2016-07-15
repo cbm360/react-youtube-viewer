@@ -19,3 +19,5 @@ outside of constructor.
 - Passing callbacks to other components- practice passing callbacks from top level component down
 two levels.  This could get a little funky if passing the callback any more than two levels.
 
+## Resources
+Udemy- (Modern React with Redux)[https://www.udemy.com/react-redux/learn/v4/overview]

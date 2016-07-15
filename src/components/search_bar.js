@@ -11,6 +11,7 @@ class SearchBar extends Component {
         return (
             <div className="search-bar col-md-10 offset-md-2">
                 <input
+                    className="form-control"
                     value={this.state.term}
                     onChange={event => this.onInputChange(event.target.value)}
                 />

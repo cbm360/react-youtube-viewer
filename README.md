@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# React YouTube Viewer
 
 ## What I Learned
 - JSX

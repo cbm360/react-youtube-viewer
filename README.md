@@ -8,3 +8,5 @@
 - render to DOM
 - Use contructor in a class and set state
 - Update state using setState
+- Passing callbacks to other components
+

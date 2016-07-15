@@ -20,4 +20,4 @@ outside of constructor.
 two levels.  This could get a little funky if passing the callback any more than two levels.
 
 ## Resources
-Udemy- (Modern React with Redux)[https://www.udemy.com/react-redux/learn/v4/overview]
+Udemy- [Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/overview)
